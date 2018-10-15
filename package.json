@@ -1,0 +1,13 @@
+{
+  "name": "minimal-react",
+  "version": "1.0.0",
+  "description": "A minimal React and Webpack Scaffold",
+  "main": "./src/index.js",
+  "scripts": {
+    "start": "webpack-dev-server --mode development --open",
+    "build": "webpack --mode production",
+    "serve": "serve dist/"
+  },
+  "author": "Tony Johnson <tony@tosp.net.au>",
+  "license": "MIT"
+}

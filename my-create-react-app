@@ -1,0 +1,3 @@
+yarn add react react-dom
+yarn add webpack webpack-cli babel-core babel-loader@7 babel-preset-env babel-preset-react html-webpack-plugin webpack-dev-server css-loader style-loader -D
+
